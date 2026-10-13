@@ -1,0 +1,15 @@
+{
+  "version_code": 1,
+  "version_name": "Thousand Sunny",
+  "download_url": "https://example.com/update.apk",
+  "forceUpdate": false,
+  "message": "Pembaruan versi terbaru telah tersedia.",
+
+  "show_notice": true,
+  "notice_title": "Informasi Server",
+  "notice_message": "Beberapa server V+ sedang offline. Silakan gunakan Server lainnya.",
+
+  "show_maintenance": false,
+  "maintenance_title": "Aplikasi Dalam Perbaikan",
+  "maintenance_message": "Aplikasi sedang dalam pemeliharaan rutin. Silakan coba beberapa saat lagi."
+}
