@@ -1,11 +1,11 @@
 {
-  "version_code": 1,
-  "version_name": "Thousand Sunny",
-  "download_url": "https://example.com/update.apk",
+  "version_code": 3,
+  "version_name": "Moby Dick",
+  "download_url": "https://github.com/hwijaya2025-spec/update/releases/download/update/MD-universal-release.apk",
   "forceUpdate": false,
   "message": "Pembaruan versi terbaru telah tersedia.",
 
-  "show_notice": true,
+  "show_notice": false,
   "notice_title": "Update Channel",
   "notice_message": "Halo Hanma Syndicate! Ada penambahan channel nasional baru dan jajaran channel premium seperti HBO. Yuk, cek aplikasinya sekarang!",
 
