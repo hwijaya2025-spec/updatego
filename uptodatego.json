@@ -1,8 +1,8 @@
 {
-  "version_code": 3,
-  "version_name": "Moby Dick",
-  "download_url": "https://github.com/hwijaya2025-spec/update/releases/download/update/MD-universal-release.apk",
-  "forceUpdate": false,
+  "version_code": 4,
+  "version_name": "Moby Dick 2.0",
+  "download_url": "https://github.com/hwijaya2025-spec/update/releases/download/update/MD2-universal-release.apk",
+  "forceUpdate": true,
   "message": "Pembaruan versi terbaru telah tersedia.",
 
   "show_notice": false,
