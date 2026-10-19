@@ -5,9 +5,9 @@
   "forceUpdate": true,
   "message": "Pembaruan versi terbaru telah tersedia.",
 
-  "show_notice": false,
-  "notice_title": "Update Channel",
-  "notice_message": "Halo Hanma Syndicate! Ada penambahan channel nasional baru dan jajaran channel premium seperti HBO. Yuk, cek aplikasinya sekarang!",
+  "show_notice": true,
+  "notice_title": "Cloudflare Custom DNS",
+  "notice_message": "Khusus user yang menggunakan kartu XL atau MIFI CAT4 wajib gunakan DNS Custom SNI CloudFlare (one.one.one.one) thanks",
 
   "show_maintenance": false,
   "maintenance_title": "Aplikasi Dalam Perbaikan",
