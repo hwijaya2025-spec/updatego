@@ -7,7 +7,7 @@
 
   "show_notice": true,
   "notice_title": "Cloudflare Custom DNS",
-  "notice_message": "Khusus user yang menggunakan kartu XL atau MIFI CAT4 wajib gunakan DNS Custom SNI CloudFlare (one.one.one.one) thanks",
+  "notice_message": "Khusus pengguna yang menggunakan kartu XL atau MIFI CAT4 wajib gunakan DNS Custom SNI CloudFlare (one.one.one.one) thanks",
 
   "show_maintenance": false,
   "maintenance_title": "Aplikasi Dalam Perbaikan",
