@@ -1,13 +1,13 @@
 {
-  "version_code": 4,
-  "version_name": "Moby Dick 2.0",
-  "download_url": "https://github.com/hwijaya2025-spec/update/releases/download/update/MD2-universal-release.apk",
+  "version_code": 6,
+  "version_name": "Thriller Bark",
+  "download_url": "https://github.com/hwijaya2025-spec/update/releases/download/update/TB-universal-release.apk",
   "forceUpdate": true,
-  "message": "Pembaruan versi terbaru telah tersedia.",
+  "message": "Fix Custom DNS & Auto Live",
 
   "show_notice": true,
-  "notice_title": "Cloudflare Custom DNS",
-  "notice_message": "Khusus pengguna yang menggunakan kartu XL atau MIFI CAT4 wajib gunakan DNS Custom SNI CloudFlare (one.one.one.one) thanks",
+  "notice_title": "Peringatan",
+  "notice_message": "Aplikasi Gratis, jangan diperjual belikan",
 
   "show_maintenance": false,
   "maintenance_title": "Aplikasi Dalam Perbaikan",
