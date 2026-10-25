@@ -1,9 +1,9 @@
 {
-  "version_code": 6,
-  "version_name": "Thriller Bark",
-  "download_url": "https://github.com/hwijaya2025-spec/update/releases/download/update/TB-universal-release.apk",
+  "version_code": 7,
+  "version_name": "Thriller Bark 2.0",
+  "download_url": "https://github.com/hwijaya2025-spec/update/releases/download/update/TB2-universal-release.apk",
   "forceUpdate": true,
-  "message": "Fix Custom DNS & Auto Live",
+  "message": "Custom Auto Rotate, Multi Auto Live & Easy Navigation on TV",
 
   "show_notice": true,
   "notice_title": "Peringatan",
