@@ -9,7 +9,7 @@
   "notice_title": "Peringatan",
   "notice_message": "Aplikasi Gratis, jangan diperjual belikan",
 
-  "show_maintenance": false,
+  "show_maintenance": true,
   "maintenance_title": "Aplikasi Dalam Perbaikan",
   "maintenance_message": "Aplikasi sedang dalam pemeliharaan rutin. Silakan coba beberapa saat lagi."
 }
